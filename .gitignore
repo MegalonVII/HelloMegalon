@@ -8,3 +8,4 @@ build/main.o
 HelloMegalon.smdh
 HelloMegalon.elf
 HelloMegalon.3dsx
+*.json
