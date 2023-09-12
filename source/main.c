@@ -7,7 +7,7 @@ int main(int argc, char* argv[]) {
 	gfxInitDefault();
 	consoleInit(GFX_TOP, NULL);
 
-	printf("Hello World!\n\n\nPress START to exit");
+	printf("Hey! This is Megalon, and I think I've genuinely gone insane. If this works on your end, can you take a picture of this message and send it to me on Discord?\n\n\nPress START to exit");
 
 	while (aptMainLoop()) {
 		gspWaitForVBlank();
