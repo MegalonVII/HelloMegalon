@@ -1,2 +1,10 @@
 
 .DS_Store
+.vscode/c_cpp_properties.json
+build/HelloMegalon.lst
+build/HelloMegalon.map
+build/main.d
+build/main.o
+HelloMegalon.smdh
+HelloMegalon.elf
+HelloMegalon.3dsx
